@@ -1,4 +1,5 @@
-# Larasky AI ![Static Badge](https://img.shields.io/badge/MARCH15-E6526F?style=for-the-badge&logo=Code&logoColor=pink)
+# Larasky AI ![Static Badge](https://img.shields.io/badge/MARCH15-blue)
+
 
 <img src="https://raw.githubusercontent.com/miftah1725/larasky/main/stb1.webp" width="200" align="left">
 
